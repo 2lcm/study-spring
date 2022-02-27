@@ -1,3 +1,3 @@
-# hello-spring
+# study-spring
 
-This is spring-study repo for studying spring! This repository consists of several projects.
+This is study-spring repo for studying spring! This repository consists of several projects.
